@@ -115,7 +115,7 @@ src/
 
 ## Kanban
 
-Link: _[Cole aqui o link do seu quadro Kanban]_
+Link: [Pokédex TypeScript Lite - Kanban](https://github.com/users/rafaelnrosa/projects/1/views/1)
 
 ## Branches
 
